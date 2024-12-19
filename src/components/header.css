@@ -52,3 +52,14 @@ header {
   .nav li:hover a {
     color: var(--primary)
   }
+
+/* Mobile View Coding */
+@media (max-width: 768px) {
+  header {
+    padding: 20px;
+  }
+
+  .nav {
+    display: none;
+  }
+}

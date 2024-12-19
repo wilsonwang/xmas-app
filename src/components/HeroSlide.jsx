@@ -1,3 +1,4 @@
+import Card from './Card'
 import './heroSlide.css'
 
 function HeroSlide({ slide }) {
@@ -14,7 +15,9 @@ function HeroSlide({ slide }) {
                         <p>{slide.subtitle}</p>
                     </div>
                 </div>
-                <div className="col-lg-3"></div>
+                <div className="col-lg-5 d-flex justify-content-center">
+                    <Card slide={slide} />
+                </div>
             </div>
         </div>
     </div>

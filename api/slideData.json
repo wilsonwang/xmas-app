@@ -1,36 +1,37 @@
 {
     "Slides": [
-    {
+      {
         "_id": 1,
-        "bgImg": "../src/assets/xmas-1.png",
-        "title": "1 Merry Christmas",
-        "subtitle": "1 subtitle",
-        "description": "1 description",
+        "bgImg": "/xmas-1.png",
+        "title": "Joyful Advent",
+        "subtitle": "Prepare for the Coming of Christ",
+        "description": "Embrace hope and love this Advent season. May your hearts be filled with peace and joy.",
         "active": true
-    },
-    {
+      },
+      {
         "_id": 2,
-        "bgImg": "../src/assets/xmas-2.png",
-        "title": "2 Title",
-        "subtitle": "2 subtitle",
-        "description": "2 description",
+        "bgImg": "/xmas-2.png",
+        "title": "Blessed Advent",
+        "subtitle": "Reflect on the True Meaning of Christmas",
+        "description": "Celebrate the anticipation of Christ's birth. Let this time be one of reflection and gratitude.",
         "active": false
-    },
-    {
+      },
+      {
         "_id": 3,
-        "bgImg": "../src/assets/xmas-3.png",
-        "title": "3 Title",
-        "subtitle": "3 subtitle",
-        "description": "3 description",
-        "active":  false
-    },
-    {
+        "bgImg": "/xmas-3.png",
+        "title": "Peaceful Advent",
+        "subtitle": "Experience the Light of Christ",
+        "description": "May the light of Advent guide you. Find comfort and joy in the promise of His coming.",
+        "active": false
+      },
+      {
         "_id": 4,
-        "bgImg": "../src/assets/xmas-4.png",
-        "title": "4 Title",
-        "subtitle": "4 subtitle",
-        "description": "4 description",
-        "active":  false
-    }
-]
-}
+        "bgImg": "/xmas-4.png",
+        "title": "Hopeful Advent",
+        "subtitle": "Await the Birth of Our Savior",
+        "description": "In this season of waiting, may you find hope and renewal. Let the spirit of Advent fill your home.",
+        "active": false
+      }
+    ]
+  }
+  
